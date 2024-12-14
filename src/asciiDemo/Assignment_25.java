@@ -17,6 +17,7 @@ public class Assignment_25 {
 		System.out.println("Hello, on branch A");
 		System.out.println("Hello");
 		System.out.println("Hi, Changes in B");
+		System.out.println("Hi, Changes in C");
 	}
 
 	public static void main(String[] args) {
