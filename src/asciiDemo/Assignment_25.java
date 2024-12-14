@@ -14,12 +14,9 @@ public class Assignment_25 {
 			}
 		}
 		System.out.println(sum);
-<<<<<<< Updated upstream
 		System.out.println("Hello, on branch A");
-=======
 		System.out.println("Hello");
 		System.out.println("Hi, Changes in B");
->>>>>>> Stashed changes
 	}
 
 	public static void main(String[] args) {
