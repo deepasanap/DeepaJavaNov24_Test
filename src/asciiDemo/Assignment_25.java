@@ -14,7 +14,7 @@ public class Assignment_25 {
 			}
 		}
 		System.out.println(sum);
-		System.out.println("Hello");
+		System.out.println("Hello, on branch A");
 	}
 
 	public static void main(String[] args) {
