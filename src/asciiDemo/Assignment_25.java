@@ -14,6 +14,7 @@ public class Assignment_25 {
 			}
 		}
 		System.out.println(sum);
+		System.out.println("Hello");
 	}
 
 	public static void main(String[] args) {
