@@ -7,6 +7,7 @@ public class Assignment_33 {
 		int asciiValue = ch;
 		System.out.println(asciiValue);
 		System.out.println("222222222");
+		System.out.println("BBBBBB");
 	}
 
 	public static void main(String[] args) {
